@@ -1,5 +1,6 @@
 # hds_best_terminal
 
+<pre>
 这个中只在ubuntu14.04上面运行过,其他版本系统运行是否有不问题不清楚,下面说到的操作都是在ubuntu14.04上面尝试的
 安装命令:sudo dpkg -i gnome-terminal_3.6.2-0ubuntu1_amd64.deb
 
@@ -20,4 +21,5 @@ sudo apt-get install gnome-terminal
 另外还可以单击打开文件夹.
 
 
-详情大家可以看看上传的视频.
+详情大家可以看看上传的视频(test.mp4),录制视频后发现有点点问题,鼠标没录取到,但是大家应该能明白
+</pre>
